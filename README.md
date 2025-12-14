@@ -1,0 +1,1 @@
+# Visual Affect Analysis: Predicting Emotions of Image Viewers with Vision–Language Models
