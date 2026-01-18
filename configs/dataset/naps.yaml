@@ -1,0 +1,5 @@
+# @package dataset
+name: "NAPS"
+hf_path: "filnow/NAPS-Emotion-Prediction"
+ground_truth_csv_path: "data/human_cls/NAPS-human-cls.csv"
+scale: 7

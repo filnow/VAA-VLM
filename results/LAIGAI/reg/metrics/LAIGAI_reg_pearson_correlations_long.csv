@@ -1,0 +1,109 @@
+dataset,model,emotion,pearson_r,n_pairs,result_file
+LAIGAI,gemini-2.5-flash,amusement,0.74,465,LAIGAI-reg-gemini-2.5-flash.csv
+LAIGAI,gemini-2.5-flash,anger,0.91,465,LAIGAI-reg-gemini-2.5-flash.csv
+LAIGAI,gemini-2.5-flash,aroused,0.41,465,LAIGAI-reg-gemini-2.5-flash.csv
+LAIGAI,gemini-2.5-flash,attachment love,0.89,465,LAIGAI-reg-gemini-2.5-flash.csv
+LAIGAI,gemini-2.5-flash,awe,0.69,465,LAIGAI-reg-gemini-2.5-flash.csv
+LAIGAI,gemini-2.5-flash,calm,0.85,465,LAIGAI-reg-gemini-2.5-flash.csv
+LAIGAI,gemini-2.5-flash,craving,0.88,465,LAIGAI-reg-gemini-2.5-flash.csv
+LAIGAI,gemini-2.5-flash,disgust,0.91,465,LAIGAI-reg-gemini-2.5-flash.csv
+LAIGAI,gemini-2.5-flash,excitement,0.72,465,LAIGAI-reg-gemini-2.5-flash.csv
+LAIGAI,gemini-2.5-flash,fear,0.96,465,LAIGAI-reg-gemini-2.5-flash.csv
+LAIGAI,gemini-2.5-flash,joy,0.95,465,LAIGAI-reg-gemini-2.5-flash.csv
+LAIGAI,gemini-2.5-flash,motivated to approach,0.87,465,LAIGAI-reg-gemini-2.5-flash.csv
+LAIGAI,gemini-2.5-flash,motivated to avoid,0.94,465,LAIGAI-reg-gemini-2.5-flash.csv
+LAIGAI,gemini-2.5-flash,negative,0.96,465,LAIGAI-reg-gemini-2.5-flash.csv
+LAIGAI,gemini-2.5-flash,neutral,0.7,465,LAIGAI-reg-gemini-2.5-flash.csv
+LAIGAI,gemini-2.5-flash,nurturant love,0.86,465,LAIGAI-reg-gemini-2.5-flash.csv
+LAIGAI,gemini-2.5-flash,positive,0.94,465,LAIGAI-reg-gemini-2.5-flash.csv
+LAIGAI,gemini-2.5-flash,sadness,0.95,465,LAIGAI-reg-gemini-2.5-flash.csv
+LAIGAI,gemma-vl-3-27b,amusement,0.79,480,LAIGAI-reg-gemma-vl-3-27b.csv
+LAIGAI,gemma-vl-3-27b,anger,0.81,480,LAIGAI-reg-gemma-vl-3-27b.csv
+LAIGAI,gemma-vl-3-27b,aroused,0.32,480,LAIGAI-reg-gemma-vl-3-27b.csv
+LAIGAI,gemma-vl-3-27b,attachment love,0.88,480,LAIGAI-reg-gemma-vl-3-27b.csv
+LAIGAI,gemma-vl-3-27b,awe,0.71,480,LAIGAI-reg-gemma-vl-3-27b.csv
+LAIGAI,gemma-vl-3-27b,calm,0.89,480,LAIGAI-reg-gemma-vl-3-27b.csv
+LAIGAI,gemma-vl-3-27b,craving,0.9,480,LAIGAI-reg-gemma-vl-3-27b.csv
+LAIGAI,gemma-vl-3-27b,disgust,0.93,480,LAIGAI-reg-gemma-vl-3-27b.csv
+LAIGAI,gemma-vl-3-27b,excitement,0.59,480,LAIGAI-reg-gemma-vl-3-27b.csv
+LAIGAI,gemma-vl-3-27b,fear,0.94,480,LAIGAI-reg-gemma-vl-3-27b.csv
+LAIGAI,gemma-vl-3-27b,joy,0.93,480,LAIGAI-reg-gemma-vl-3-27b.csv
+LAIGAI,gemma-vl-3-27b,motivated to approach,0.87,480,LAIGAI-reg-gemma-vl-3-27b.csv
+LAIGAI,gemma-vl-3-27b,motivated to avoid,0.93,480,LAIGAI-reg-gemma-vl-3-27b.csv
+LAIGAI,gemma-vl-3-27b,negative,0.95,480,LAIGAI-reg-gemma-vl-3-27b.csv
+LAIGAI,gemma-vl-3-27b,neutral,0.66,480,LAIGAI-reg-gemma-vl-3-27b.csv
+LAIGAI,gemma-vl-3-27b,nurturant love,0.88,480,LAIGAI-reg-gemma-vl-3-27b.csv
+LAIGAI,gemma-vl-3-27b,positive,0.95,480,LAIGAI-reg-gemma-vl-3-27b.csv
+LAIGAI,gemma-vl-3-27b,sadness,0.9,480,LAIGAI-reg-gemma-vl-3-27b.csv
+LAIGAI,gpt-4.1,amusement,0.76,480,LAIGAI-reg-gpt-4.1.csv
+LAIGAI,gpt-4.1,anger,0.88,480,LAIGAI-reg-gpt-4.1.csv
+LAIGAI,gpt-4.1,aroused,0.45,480,LAIGAI-reg-gpt-4.1.csv
+LAIGAI,gpt-4.1,attachment love,0.86,480,LAIGAI-reg-gpt-4.1.csv
+LAIGAI,gpt-4.1,awe,0.56,480,LAIGAI-reg-gpt-4.1.csv
+LAIGAI,gpt-4.1,calm,0.87,480,LAIGAI-reg-gpt-4.1.csv
+LAIGAI,gpt-4.1,craving,0.88,480,LAIGAI-reg-gpt-4.1.csv
+LAIGAI,gpt-4.1,disgust,0.95,480,LAIGAI-reg-gpt-4.1.csv
+LAIGAI,gpt-4.1,excitement,0.6,480,LAIGAI-reg-gpt-4.1.csv
+LAIGAI,gpt-4.1,fear,0.96,480,LAIGAI-reg-gpt-4.1.csv
+LAIGAI,gpt-4.1,joy,0.95,480,LAIGAI-reg-gpt-4.1.csv
+LAIGAI,gpt-4.1,motivated to approach,0.54,480,LAIGAI-reg-gpt-4.1.csv
+LAIGAI,gpt-4.1,motivated to avoid,0.96,288,LAIGAI-reg-gpt-4.1.csv
+LAIGAI,gpt-4.1,negative,0.97,480,LAIGAI-reg-gpt-4.1.csv
+LAIGAI,gpt-4.1,neutral,0.61,480,LAIGAI-reg-gpt-4.1.csv
+LAIGAI,gpt-4.1,nurturant love,0.87,480,LAIGAI-reg-gpt-4.1.csv
+LAIGAI,gpt-4.1,positive,0.96,480,LAIGAI-reg-gpt-4.1.csv
+LAIGAI,gpt-4.1,sadness,0.95,480,LAIGAI-reg-gpt-4.1.csv
+LAIGAI,intern-vl-3.5-8b,amusement,0.73,480,LAIGAI-reg-intern-vl-3.5-8b.csv
+LAIGAI,intern-vl-3.5-8b,anger,0.64,480,LAIGAI-reg-intern-vl-3.5-8b.csv
+LAIGAI,intern-vl-3.5-8b,aroused,0.56,480,LAIGAI-reg-intern-vl-3.5-8b.csv
+LAIGAI,intern-vl-3.5-8b,attachment love,0.88,480,LAIGAI-reg-intern-vl-3.5-8b.csv
+LAIGAI,intern-vl-3.5-8b,awe,0.72,480,LAIGAI-reg-intern-vl-3.5-8b.csv
+LAIGAI,intern-vl-3.5-8b,calm,0.8,480,LAIGAI-reg-intern-vl-3.5-8b.csv
+LAIGAI,intern-vl-3.5-8b,craving,0.83,480,LAIGAI-reg-intern-vl-3.5-8b.csv
+LAIGAI,intern-vl-3.5-8b,disgust,0.9,480,LAIGAI-reg-intern-vl-3.5-8b.csv
+LAIGAI,intern-vl-3.5-8b,excitement,0.7,480,LAIGAI-reg-intern-vl-3.5-8b.csv
+LAIGAI,intern-vl-3.5-8b,fear,0.92,480,LAIGAI-reg-intern-vl-3.5-8b.csv
+LAIGAI,intern-vl-3.5-8b,joy,0.95,480,LAIGAI-reg-intern-vl-3.5-8b.csv
+LAIGAI,intern-vl-3.5-8b,motivated to approach,0.86,480,LAIGAI-reg-intern-vl-3.5-8b.csv
+LAIGAI,intern-vl-3.5-8b,motivated to avoid,0.93,480,LAIGAI-reg-intern-vl-3.5-8b.csv
+LAIGAI,intern-vl-3.5-8b,negative,0.94,480,LAIGAI-reg-intern-vl-3.5-8b.csv
+LAIGAI,intern-vl-3.5-8b,neutral,0.43,480,LAIGAI-reg-intern-vl-3.5-8b.csv
+LAIGAI,intern-vl-3.5-8b,nurturant love,0.84,480,LAIGAI-reg-intern-vl-3.5-8b.csv
+LAIGAI,intern-vl-3.5-8b,positive,0.96,480,LAIGAI-reg-intern-vl-3.5-8b.csv
+LAIGAI,intern-vl-3.5-8b,sadness,0.91,480,LAIGAI-reg-intern-vl-3.5-8b.csv
+LAIGAI,qwen-vl-2.5-72b,amusement,0.8,480,LAIGAI-reg-qwen-vl-2.5-72b.csv
+LAIGAI,qwen-vl-2.5-72b,anger,0.75,480,LAIGAI-reg-qwen-vl-2.5-72b.csv
+LAIGAI,qwen-vl-2.5-72b,aroused,0.42,480,LAIGAI-reg-qwen-vl-2.5-72b.csv
+LAIGAI,qwen-vl-2.5-72b,attachment love,0.88,480,LAIGAI-reg-qwen-vl-2.5-72b.csv
+LAIGAI,qwen-vl-2.5-72b,awe,0.73,480,LAIGAI-reg-qwen-vl-2.5-72b.csv
+LAIGAI,qwen-vl-2.5-72b,calm,0.82,480,LAIGAI-reg-qwen-vl-2.5-72b.csv
+LAIGAI,qwen-vl-2.5-72b,craving,0.88,480,LAIGAI-reg-qwen-vl-2.5-72b.csv
+LAIGAI,qwen-vl-2.5-72b,disgust,0.92,480,LAIGAI-reg-qwen-vl-2.5-72b.csv
+LAIGAI,qwen-vl-2.5-72b,excitement,0.58,480,LAIGAI-reg-qwen-vl-2.5-72b.csv
+LAIGAI,qwen-vl-2.5-72b,fear,0.95,480,LAIGAI-reg-qwen-vl-2.5-72b.csv
+LAIGAI,qwen-vl-2.5-72b,joy,0.95,480,LAIGAI-reg-qwen-vl-2.5-72b.csv
+LAIGAI,qwen-vl-2.5-72b,motivated to approach,0.91,480,LAIGAI-reg-qwen-vl-2.5-72b.csv
+LAIGAI,qwen-vl-2.5-72b,motivated to avoid,0.95,480,LAIGAI-reg-qwen-vl-2.5-72b.csv
+LAIGAI,qwen-vl-2.5-72b,negative,0.96,480,LAIGAI-reg-qwen-vl-2.5-72b.csv
+LAIGAI,qwen-vl-2.5-72b,neutral,0.62,480,LAIGAI-reg-qwen-vl-2.5-72b.csv
+LAIGAI,qwen-vl-2.5-72b,nurturant love,0.87,480,LAIGAI-reg-qwen-vl-2.5-72b.csv
+LAIGAI,qwen-vl-2.5-72b,positive,0.97,480,LAIGAI-reg-qwen-vl-2.5-72b.csv
+LAIGAI,qwen-vl-2.5-72b,sadness,0.92,480,LAIGAI-reg-qwen-vl-2.5-72b.csv
+LAIGAI,qwen-vl-2.5-7b,amusement,0.74,480,LAIGAI-reg-qwen-vl-2.5-7b.csv
+LAIGAI,qwen-vl-2.5-7b,anger,0.54,480,LAIGAI-reg-qwen-vl-2.5-7b.csv
+LAIGAI,qwen-vl-2.5-7b,aroused,0.53,480,LAIGAI-reg-qwen-vl-2.5-7b.csv
+LAIGAI,qwen-vl-2.5-7b,attachment love,0.87,480,LAIGAI-reg-qwen-vl-2.5-7b.csv
+LAIGAI,qwen-vl-2.5-7b,awe,0.74,480,LAIGAI-reg-qwen-vl-2.5-7b.csv
+LAIGAI,qwen-vl-2.5-7b,calm,0.78,480,LAIGAI-reg-qwen-vl-2.5-7b.csv
+LAIGAI,qwen-vl-2.5-7b,craving,0.91,480,LAIGAI-reg-qwen-vl-2.5-7b.csv
+LAIGAI,qwen-vl-2.5-7b,disgust,0.92,480,LAIGAI-reg-qwen-vl-2.5-7b.csv
+LAIGAI,qwen-vl-2.5-7b,excitement,0.71,480,LAIGAI-reg-qwen-vl-2.5-7b.csv
+LAIGAI,qwen-vl-2.5-7b,fear,0.89,480,LAIGAI-reg-qwen-vl-2.5-7b.csv
+LAIGAI,qwen-vl-2.5-7b,joy,0.9,480,LAIGAI-reg-qwen-vl-2.5-7b.csv
+LAIGAI,qwen-vl-2.5-7b,motivated to approach,0.87,480,LAIGAI-reg-qwen-vl-2.5-7b.csv
+LAIGAI,qwen-vl-2.5-7b,motivated to avoid,0.93,480,LAIGAI-reg-qwen-vl-2.5-7b.csv
+LAIGAI,qwen-vl-2.5-7b,negative,0.95,480,LAIGAI-reg-qwen-vl-2.5-7b.csv
+LAIGAI,qwen-vl-2.5-7b,neutral,0.6,480,LAIGAI-reg-qwen-vl-2.5-7b.csv
+LAIGAI,qwen-vl-2.5-7b,nurturant love,0.85,480,LAIGAI-reg-qwen-vl-2.5-7b.csv
+LAIGAI,qwen-vl-2.5-7b,positive,0.96,480,LAIGAI-reg-qwen-vl-2.5-7b.csv
+LAIGAI,qwen-vl-2.5-7b,sadness,0.87,480,LAIGAI-reg-qwen-vl-2.5-7b.csv

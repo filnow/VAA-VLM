@@ -1,0 +1,12 @@
+# @package model    
+name: "glm-vl-4.1-9b"
+model_path: "zai-org/GLM-4.1V-9B-Base"
+
+# All arguments passed directly to the vLLM LLM() constructor
+vllm_args:
+  dtype: "bfloat16"
+  max_model_len: 4096
+  gpu_memory_utilization: 0.95
+  limit_mm_per_prompt:
+    image: 1
+  trust_remote_code: True

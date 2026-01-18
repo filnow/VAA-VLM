@@ -1,0 +1,13 @@
+# @package model    
+name: "kimi-vl-a3b-16b"
+model_path: "moonshotai/Kimi-VL-A3B-Instruct"
+
+# All arguments passed directly to the vLLM LLM() constructor
+vllm_args:
+  dtype: "bfloat16"
+  max_model_len: 4096
+  gpu_memory_utilization: 0.95
+  limit_mm_per_prompt:
+    image: 1
+  trust_remote_code: True
+  tensor_parallel_size: 1

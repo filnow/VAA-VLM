@@ -1,0 +1,49 @@
+dataset,model,emotion,pearson_r,n_pairs,result_file
+NAPS,gemini-2.5-flash,anger,0.72,489,NAPS-reg-gemini-2.5-flash.csv
+NAPS,gemini-2.5-flash,arousal,0.7,489,NAPS-reg-gemini-2.5-flash.csv
+NAPS,gemini-2.5-flash,disgust,0.85,489,NAPS-reg-gemini-2.5-flash.csv
+NAPS,gemini-2.5-flash,emotional valence,0.9,489,NAPS-reg-gemini-2.5-flash.csv
+NAPS,gemini-2.5-flash,fear,0.86,489,NAPS-reg-gemini-2.5-flash.csv
+NAPS,gemini-2.5-flash,happiness,0.91,489,NAPS-reg-gemini-2.5-flash.csv
+NAPS,gemini-2.5-flash,sadness,0.89,489,NAPS-reg-gemini-2.5-flash.csv
+NAPS,gemini-2.5-flash,surprise,0.63,489,NAPS-reg-gemini-2.5-flash.csv
+NAPS,gemma-vl-3-27b,anger,0.61,504,NAPS-reg-gemma-vl-3-27b.csv
+NAPS,gemma-vl-3-27b,arousal,0.69,504,NAPS-reg-gemma-vl-3-27b.csv
+NAPS,gemma-vl-3-27b,disgust,0.84,504,NAPS-reg-gemma-vl-3-27b.csv
+NAPS,gemma-vl-3-27b,emotional valence,0.87,504,NAPS-reg-gemma-vl-3-27b.csv
+NAPS,gemma-vl-3-27b,fear,0.85,504,NAPS-reg-gemma-vl-3-27b.csv
+NAPS,gemma-vl-3-27b,happiness,0.88,504,NAPS-reg-gemma-vl-3-27b.csv
+NAPS,gemma-vl-3-27b,sadness,0.87,504,NAPS-reg-gemma-vl-3-27b.csv
+NAPS,gemma-vl-3-27b,surprise,0.48,504,NAPS-reg-gemma-vl-3-27b.csv
+NAPS,gpt-4.1,anger,0.78,504,NAPS-reg-gpt-4.1.csv
+NAPS,gpt-4.1,arousal,0.68,504,NAPS-reg-gpt-4.1.csv
+NAPS,gpt-4.1,disgust,0.86,504,NAPS-reg-gpt-4.1.csv
+NAPS,gpt-4.1,emotional valence,0.9,504,NAPS-reg-gpt-4.1.csv
+NAPS,gpt-4.1,fear,0.89,504,NAPS-reg-gpt-4.1.csv
+NAPS,gpt-4.1,happiness,0.92,504,NAPS-reg-gpt-4.1.csv
+NAPS,gpt-4.1,sadness,0.92,504,NAPS-reg-gpt-4.1.csv
+NAPS,gpt-4.1,surprise,0.65,504,NAPS-reg-gpt-4.1.csv
+NAPS,intern-vl-3.5-8b,anger,0.49,504,NAPS-reg-intern-vl-3.5-8b.csv
+NAPS,intern-vl-3.5-8b,arousal,0.25,504,NAPS-reg-intern-vl-3.5-8b.csv
+NAPS,intern-vl-3.5-8b,disgust,0.8,504,NAPS-reg-intern-vl-3.5-8b.csv
+NAPS,intern-vl-3.5-8b,emotional valence,0.83,504,NAPS-reg-intern-vl-3.5-8b.csv
+NAPS,intern-vl-3.5-8b,fear,0.79,504,NAPS-reg-intern-vl-3.5-8b.csv
+NAPS,intern-vl-3.5-8b,happiness,0.86,504,NAPS-reg-intern-vl-3.5-8b.csv
+NAPS,intern-vl-3.5-8b,sadness,0.82,504,NAPS-reg-intern-vl-3.5-8b.csv
+NAPS,intern-vl-3.5-8b,surprise,0.55,504,NAPS-reg-intern-vl-3.5-8b.csv
+NAPS,qwen-vl-2.5-72b,anger,0.57,504,NAPS-reg-qwen-vl-2.5-72b.csv
+NAPS,qwen-vl-2.5-72b,arousal,0.52,504,NAPS-reg-qwen-vl-2.5-72b.csv
+NAPS,qwen-vl-2.5-72b,disgust,0.86,504,NAPS-reg-qwen-vl-2.5-72b.csv
+NAPS,qwen-vl-2.5-72b,emotional valence,0.91,504,NAPS-reg-qwen-vl-2.5-72b.csv
+NAPS,qwen-vl-2.5-72b,fear,0.85,504,NAPS-reg-qwen-vl-2.5-72b.csv
+NAPS,qwen-vl-2.5-72b,happiness,0.9,504,NAPS-reg-qwen-vl-2.5-72b.csv
+NAPS,qwen-vl-2.5-72b,sadness,0.88,504,NAPS-reg-qwen-vl-2.5-72b.csv
+NAPS,qwen-vl-2.5-72b,surprise,0.48,504,NAPS-reg-qwen-vl-2.5-72b.csv
+NAPS,qwen-vl-2.5-7b,anger,0.43,504,NAPS-reg-qwen-vl-2.5-7b.csv
+NAPS,qwen-vl-2.5-7b,arousal,0.08,504,NAPS-reg-qwen-vl-2.5-7b.csv
+NAPS,qwen-vl-2.5-7b,disgust,0.84,504,NAPS-reg-qwen-vl-2.5-7b.csv
+NAPS,qwen-vl-2.5-7b,emotional valence,0.89,504,NAPS-reg-qwen-vl-2.5-7b.csv
+NAPS,qwen-vl-2.5-7b,fear,0.76,504,NAPS-reg-qwen-vl-2.5-7b.csv
+NAPS,qwen-vl-2.5-7b,happiness,0.88,504,NAPS-reg-qwen-vl-2.5-7b.csv
+NAPS,qwen-vl-2.5-7b,sadness,0.81,504,NAPS-reg-qwen-vl-2.5-7b.csv
+NAPS,qwen-vl-2.5-7b,surprise,0.15,504,NAPS-reg-qwen-vl-2.5-7b.csv

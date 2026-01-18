@@ -1,0 +1,32 @@
+defaults:
+  - model: gemini_2.5_flash
+  - dataset: laigai
+
+# --- Path Configurations ---
+prompt_config_path: "prompts/prompt-all-context-batch.json"
+emotion_definitions_path: "data/emotion_reg.json"
+
+seed: 42  # Random seed for reproducibility
+
+# --- Output CSV Configuration ---
+output:
+  filename: "results/${dataset.name}-all-context-${model.name}.csv"
+
+# --- Model Sampling Parameters ---
+sampling_params:
+  max_tokens: 50
+  temperature: 0.5
+  n: 1
+  seed: 42    
+
+# --- Weights & Biases Logging ---
+wandb:
+  project: "${dataset.name}-reg" 
+  job_type: "model-regression"
+  run_name: "${dataset.name}-reg-${model.name}"
+
+hydra:
+  run:
+    dir: outputs/${now:%Y-%m-%d}/${now:%H-%M-%S}
+
+  

@@ -1,0 +1,257 @@
+{
+  "avg_accuracy_per_dataset": {
+    "IAPS": 58.07272727272727,
+    "LAIGAI": 63.551818181818184,
+    "NAPS": 71.71909090909091
+  },
+  "micro_avg_accuracy_per_model": {
+    "qwen-vl-2.5-72b": 70.40463007159904,
+    "gemini-2.5-flash": 68.7015113350126,
+    "gpt-4.1": 68.45370280146163,
+    "qwen-vl-2.5-7b": 67.2454415274463,
+    "intern-vl-3.5-38b": 67.12298329355608,
+    "intern-vl-3.5-8b": 67.12281622911695,
+    "gemma-vl-3-27b": 66.70835322195704,
+    "kimi-vl-a3b-16b": 66.46785202863961,
+    "glm-vl-4.1-9b": 62.528949880668264,
+    "llava-vl-mistral-7b": 58.7733890214797,
+    "llava-vl-vicuna-7b": 37.88914081145585
+  },
+  "avg_f1_per_emotion_per_dataset": {
+    "IAPS": {
+      "happiness": 0.7540181818181818,
+      "sadness": 0.5446,
+      "fear": 0.5024181818181819,
+      "disgust": 0.46508181818181815,
+      "anger": 0.12083636363636363,
+      "surprise": 0.1171
+    },
+    "NAPS": {
+      "happiness": 0.8218272727272727,
+      "sadness": 0.7314,
+      "disgust": 0.7016,
+      "fear": 0.5529545454545454,
+      "anger": 0.1347818181818182,
+      "surprise": 0.11218181818181817
+    },
+    "LAIGAI": {
+      "sadness": 0.7714636363636364,
+      "disgust": 0.7516545454545455,
+      "craving": 0.7293363636363637,
+      "fear": 0.7172999999999999,
+      "awe": 0.641290909090909,
+      "joy": 0.6288,
+      "excitement": 0.5814909090909091,
+      "amusement": 0.5800272727272727,
+      "neutral": 0.49752727272727276,
+      "anger": 0.3174818181818182,
+      "attachment love": 0.26563636363636367,
+      "nurturant love": 0.20831818181818182
+    }
+  },
+  "weighted_f1_per_dataset": {
+    "NAPS": 73.47184481823115,
+    "LAIGAI": 62.86381766381766,
+    "IAPS": 59.5953085106383
+  },
+  "weighted_f1_per_model_per_dataset": [
+    {
+      "dataset": "IAPS",
+      "model": "gemini-2.5-flash",
+      "f1_weighted": 66.94,
+      "num_samples": 634
+    },
+    {
+      "dataset": "IAPS",
+      "model": "gpt-4.1",
+      "f1_weighted": 65.62,
+      "num_samples": 658
+    },
+    {
+      "dataset": "IAPS",
+      "model": "qwen-vl-2.5-72b",
+      "f1_weighted": 65.33,
+      "num_samples": 692
+    },
+    {
+      "dataset": "IAPS",
+      "model": "qwen-vl-2.5-7b",
+      "f1_weighted": 64.71000000000001,
+      "num_samples": 692
+    },
+    {
+      "dataset": "IAPS",
+      "model": "kimi-vl-a3b-16b",
+      "f1_weighted": 61.919999999999995,
+      "num_samples": 692
+    },
+    {
+      "dataset": "IAPS",
+      "model": "intern-vl-3.5-8b",
+      "f1_weighted": 60.650000000000006,
+      "num_samples": 692
+    },
+    {
+      "dataset": "IAPS",
+      "model": "intern-vl-3.5-38b",
+      "f1_weighted": 60.01,
+      "num_samples": 692
+    },
+    {
+      "dataset": "IAPS",
+      "model": "glm-vl-4.1-9b",
+      "f1_weighted": 59.91,
+      "num_samples": 692
+    },
+    {
+      "dataset": "IAPS",
+      "model": "gemma-vl-3-27b",
+      "f1_weighted": 57.93000000000001,
+      "num_samples": 692
+    },
+    {
+      "dataset": "IAPS",
+      "model": "llava-vl-mistral-7b",
+      "f1_weighted": 56.16,
+      "num_samples": 692
+    },
+    {
+      "dataset": "IAPS",
+      "model": "llava-vl-vicuna-7b",
+      "f1_weighted": 37.28,
+      "num_samples": 692
+    },
+    {
+      "dataset": "LAIGAI",
+      "model": "gemma-vl-3-27b",
+      "f1_weighted": 74.79,
+      "num_samples": 480
+    },
+    {
+      "dataset": "LAIGAI",
+      "model": "kimi-vl-a3b-16b",
+      "f1_weighted": 70.71,
+      "num_samples": 480
+    },
+    {
+      "dataset": "LAIGAI",
+      "model": "gemini-2.5-flash",
+      "f1_weighted": 70.48,
+      "num_samples": 465
+    },
+    {
+      "dataset": "LAIGAI",
+      "model": "qwen-vl-2.5-72b",
+      "f1_weighted": 68.28999999999999,
+      "num_samples": 480
+    },
+    {
+      "dataset": "LAIGAI",
+      "model": "intern-vl-3.5-38b",
+      "f1_weighted": 67.39,
+      "num_samples": 480
+    },
+    {
+      "dataset": "LAIGAI",
+      "model": "gpt-4.1",
+      "f1_weighted": 65.14999999999999,
+      "num_samples": 480
+    },
+    {
+      "dataset": "LAIGAI",
+      "model": "intern-vl-3.5-8b",
+      "f1_weighted": 62.96000000000001,
+      "num_samples": 480
+    },
+    {
+      "dataset": "LAIGAI",
+      "model": "qwen-vl-2.5-7b",
+      "f1_weighted": 59.81999999999999,
+      "num_samples": 480
+    },
+    {
+      "dataset": "LAIGAI",
+      "model": "glm-vl-4.1-9b",
+      "f1_weighted": 59.38,
+      "num_samples": 480
+    },
+    {
+      "dataset": "LAIGAI",
+      "model": "llava-vl-mistral-7b",
+      "f1_weighted": 57.3,
+      "num_samples": 480
+    },
+    {
+      "dataset": "LAIGAI",
+      "model": "llava-vl-vicuna-7b",
+      "f1_weighted": 35.47,
+      "num_samples": 480
+    },
+    {
+      "dataset": "NAPS",
+      "model": "qwen-vl-2.5-72b",
+      "f1_weighted": 80.42,
+      "num_samples": 504
+    },
+    {
+      "dataset": "NAPS",
+      "model": "intern-vl-3.5-38b",
+      "f1_weighted": 79.71000000000001,
+      "num_samples": 504
+    },
+    {
+      "dataset": "NAPS",
+      "model": "gpt-4.1",
+      "f1_weighted": 79.38,
+      "num_samples": 504
+    },
+    {
+      "dataset": "NAPS",
+      "model": "qwen-vl-2.5-7b",
+      "f1_weighted": 77.25,
+      "num_samples": 504
+    },
+    {
+      "dataset": "NAPS",
+      "model": "gemini-2.5-flash",
+      "f1_weighted": 76.14999999999999,
+      "num_samples": 489
+    },
+    {
+      "dataset": "NAPS",
+      "model": "intern-vl-3.5-8b",
+      "f1_weighted": 75.94,
+      "num_samples": 504
+    },
+    {
+      "dataset": "NAPS",
+      "model": "kimi-vl-a3b-16b",
+      "f1_weighted": 75.79,
+      "num_samples": 504
+    },
+    {
+      "dataset": "NAPS",
+      "model": "gemma-vl-3-27b",
+      "f1_weighted": 74.0,
+      "num_samples": 504
+    },
+    {
+      "dataset": "NAPS",
+      "model": "glm-vl-4.1-9b",
+      "f1_weighted": 71.72,
+      "num_samples": 504
+    },
+    {
+      "dataset": "NAPS",
+      "model": "llava-vl-mistral-7b",
+      "f1_weighted": 67.93,
+      "num_samples": 504
+    },
+    {
+      "dataset": "NAPS",
+      "model": "llava-vl-vicuna-7b",
+      "f1_weighted": 49.980000000000004,
+      "num_samples": 504
+    }
+  ]
+}

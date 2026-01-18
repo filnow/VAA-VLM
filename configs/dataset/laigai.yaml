@@ -1,0 +1,5 @@
+# @package dataset
+name: "LAIGAI"
+hf_path: "filnow/LAIGAI-Emotion-Prediction"
+ground_truth_csv_path: "data/human_cls/LAIGAI-human-cls.csv"
+scale: 7

@@ -1,0 +1,133 @@
+dataset,model,emotion,accuracy,precision,recall,f1_score,num_samples,blocked_filtered
+LAIGAI,qwen-vl-2.5-72b,amusement,0.88,0.6286,0.88,0.7333,25,False
+LAIGAI,qwen-vl-2.5-72b,anger,0.5,0.7,0.5,0.5833,14,False
+LAIGAI,qwen-vl-2.5-72b,attachment love,1.0,0.186,1.0,0.3137,8,False
+LAIGAI,qwen-vl-2.5-72b,awe,0.8333,0.5814,0.8333,0.6849,30,False
+LAIGAI,qwen-vl-2.5-72b,craving,0.425,1.0,0.425,0.5965,40,False
+LAIGAI,qwen-vl-2.5-72b,disgust,0.9429,0.7174,0.9429,0.8148,35,False
+LAIGAI,qwen-vl-2.5-72b,excitement,0.85,0.5312,0.85,0.6538,20,False
+LAIGAI,qwen-vl-2.5-72b,fear,0.8571,0.8571,0.8571,0.8571,42,False
+LAIGAI,qwen-vl-2.5-72b,joy,0.5867,0.704,0.5867,0.64,150,False
+LAIGAI,qwen-vl-2.5-72b,neutral,0.4048,0.85,0.4048,0.5484,42,False
+LAIGAI,qwen-vl-2.5-72b,nurturant love,0.5,0.7778,0.5,0.6087,14,False
+LAIGAI,qwen-vl-2.5-72b,sadness,0.8,0.8421,0.8,0.8205,60,False
+LAIGAI,intern-vl-3.5-38b,amusement,0.32,0.8,0.32,0.4571,25,False
+LAIGAI,intern-vl-3.5-38b,anger,0.1429,1.0,0.1429,0.25,14,False
+LAIGAI,intern-vl-3.5-38b,attachment love,0.875,0.1489,0.875,0.2545,8,False
+LAIGAI,intern-vl-3.5-38b,awe,0.8333,0.5556,0.8333,0.6667,30,False
+LAIGAI,intern-vl-3.5-38b,craving,0.825,1.0,0.825,0.9041,40,False
+LAIGAI,intern-vl-3.5-38b,disgust,0.8286,0.8788,0.8286,0.8529,35,False
+LAIGAI,intern-vl-3.5-38b,excitement,0.95,0.5135,0.95,0.6667,20,False
+LAIGAI,intern-vl-3.5-38b,fear,0.9762,0.6613,0.9762,0.7885,42,False
+LAIGAI,intern-vl-3.5-38b,joy,0.6333,0.6934,0.6333,0.662,150,False
+LAIGAI,intern-vl-3.5-38b,neutral,0.4524,0.8261,0.4524,0.5846,42,False
+LAIGAI,intern-vl-3.5-38b,nurturant love,0.0,0.0,0.0,0.0,14,False
+LAIGAI,intern-vl-3.5-38b,sadness,0.7667,0.92,0.7667,0.8364,60,False
+LAIGAI,llava-vl-mistral-7b,amusement,0.48,0.75,0.48,0.5854,25,False
+LAIGAI,llava-vl-mistral-7b,anger,0.0714,0.25,0.0714,0.1111,14,False
+LAIGAI,llava-vl-mistral-7b,attachment love,0.125,0.1429,0.125,0.1333,8,False
+LAIGAI,llava-vl-mistral-7b,awe,0.8333,0.4717,0.8333,0.6024,30,False
+LAIGAI,llava-vl-mistral-7b,craving,0.15,1.0,0.15,0.2609,40,False
+LAIGAI,llava-vl-mistral-7b,disgust,0.7143,0.8065,0.7143,0.7576,35,False
+LAIGAI,llava-vl-mistral-7b,excitement,0.25,0.7143,0.25,0.3704,20,False
+LAIGAI,llava-vl-mistral-7b,fear,0.7857,0.6735,0.7857,0.7253,42,False
+LAIGAI,llava-vl-mistral-7b,joy,0.84,0.6087,0.84,0.7059,150,False
+LAIGAI,llava-vl-mistral-7b,neutral,0.1905,0.8889,0.1905,0.3137,42,False
+LAIGAI,llava-vl-mistral-7b,nurturant love,0.0,0.0,0.0,0.0,14,False
+LAIGAI,llava-vl-mistral-7b,sadness,0.9167,0.6548,0.9167,0.7639,60,False
+LAIGAI,kimi-vl-a3b-16b,amusement,0.88,0.4231,0.88,0.5714,25,False
+LAIGAI,kimi-vl-a3b-16b,anger,0.1429,1.0,0.1429,0.25,14,False
+LAIGAI,kimi-vl-a3b-16b,attachment love,0.5,0.5,0.5,0.5,8,False
+LAIGAI,kimi-vl-a3b-16b,awe,0.7,0.84,0.7,0.7636,30,False
+LAIGAI,kimi-vl-a3b-16b,craving,1.0,0.9756,1.0,0.9877,40,False
+LAIGAI,kimi-vl-a3b-16b,disgust,0.9714,0.4658,0.9714,0.6296,35,False
+LAIGAI,kimi-vl-a3b-16b,excitement,0.85,0.7083,0.85,0.7727,20,False
+LAIGAI,kimi-vl-a3b-16b,fear,0.7857,0.75,0.7857,0.7674,42,False
+LAIGAI,kimi-vl-a3b-16b,joy,0.7467,0.8058,0.7467,0.7751,150,False
+LAIGAI,kimi-vl-a3b-16b,neutral,0.619,0.8125,0.619,0.7027,42,False
+LAIGAI,kimi-vl-a3b-16b,nurturant love,0.0714,0.1667,0.0714,0.1,14,False
+LAIGAI,kimi-vl-a3b-16b,sadness,0.5,0.8824,0.5,0.6383,60,False
+LAIGAI,gemini-2.5-flash,amusement,0.88,0.5789,0.88,0.6984,25,True
+LAIGAI,gemini-2.5-flash,anger,0.4286,0.8571,0.4286,0.5714,14,True
+LAIGAI,gemini-2.5-flash,attachment love,0.625,0.1923,0.625,0.2941,8,True
+LAIGAI,gemini-2.5-flash,awe,0.8333,0.6579,0.8333,0.7353,30,True
+LAIGAI,gemini-2.5-flash,craving,1.0,1.0,1.0,1.0,40,True
+LAIGAI,gemini-2.5-flash,disgust,0.9231,0.6486,0.9231,0.7619,26,True
+LAIGAI,gemini-2.5-flash,excitement,0.9,0.5806,0.9,0.7059,20,True
+LAIGAI,gemini-2.5-flash,fear,0.9524,0.8889,0.9524,0.9195,42,True
+LAIGAI,gemini-2.5-flash,joy,0.4067,0.8971,0.4067,0.5596,150,True
+LAIGAI,gemini-2.5-flash,neutral,0.7143,0.7692,0.7143,0.7407,42,True
+LAIGAI,gemini-2.5-flash,nurturant love,0.8571,0.2449,0.8571,0.381,14,True
+LAIGAI,gemini-2.5-flash,sadness,0.7778,0.8936,0.7778,0.8317,54,True
+LAIGAI,glm-vl-4.1-9b,amusement,0.64,0.3019,0.64,0.4103,25,False
+LAIGAI,glm-vl-4.1-9b,anger,0.6429,0.5,0.6429,0.5625,14,False
+LAIGAI,glm-vl-4.1-9b,attachment love,0.625,0.1667,0.625,0.2632,8,False
+LAIGAI,glm-vl-4.1-9b,awe,0.8333,0.463,0.8333,0.5952,30,False
+LAIGAI,glm-vl-4.1-9b,craving,0.85,1.0,0.85,0.9189,40,False
+LAIGAI,glm-vl-4.1-9b,disgust,0.8857,0.5849,0.8857,0.7045,35,False
+LAIGAI,glm-vl-4.1-9b,excitement,0.4,0.8,0.4,0.5333,20,False
+LAIGAI,glm-vl-4.1-9b,fear,0.8333,0.6481,0.8333,0.7292,42,False
+LAIGAI,glm-vl-4.1-9b,joy,0.4267,0.7033,0.4267,0.5311,150,False
+LAIGAI,glm-vl-4.1-9b,neutral,0.4524,0.6786,0.4524,0.5429,42,False
+LAIGAI,glm-vl-4.1-9b,nurturant love,0.1429,0.1667,0.1429,0.1538,14,False
+LAIGAI,glm-vl-4.1-9b,sadness,0.5667,0.7907,0.5667,0.6602,60,False
+LAIGAI,gpt-4.1,amusement,0.88,0.6471,0.88,0.7458,25,True
+LAIGAI,gpt-4.1,anger,0.1429,0.6667,0.1429,0.2353,14,True
+LAIGAI,gpt-4.1,attachment love,1.0,0.1429,1.0,0.25,8,True
+LAIGAI,gpt-4.1,awe,0.8667,0.5417,0.8667,0.6667,30,True
+LAIGAI,gpt-4.1,craving,1.0,1.0,1.0,1.0,40,True
+LAIGAI,gpt-4.1,disgust,0.9714,0.6296,0.9714,0.764,35,True
+LAIGAI,gpt-4.1,excitement,0.9,0.72,0.9,0.8,20,True
+LAIGAI,gpt-4.1,fear,0.9524,0.7018,0.9524,0.8081,42,True
+LAIGAI,gpt-4.1,joy,0.3467,0.9123,0.3467,0.5024,150,True
+LAIGAI,gpt-4.1,neutral,0.5238,0.7857,0.5238,0.6286,42,True
+LAIGAI,gpt-4.1,nurturant love,0.8571,0.375,0.8571,0.5217,14,True
+LAIGAI,gpt-4.1,sadness,0.6333,0.8261,0.6333,0.717,60,True
+LAIGAI,gemma-vl-3-27b,amusement,0.72,0.7826,0.72,0.75,25,False
+LAIGAI,gemma-vl-3-27b,anger,0.0714,0.3333,0.0714,0.1176,14,False
+LAIGAI,gemma-vl-3-27b,attachment love,0.625,0.3571,0.625,0.4545,8,False
+LAIGAI,gemma-vl-3-27b,awe,0.8667,0.5532,0.8667,0.6753,30,False
+LAIGAI,gemma-vl-3-27b,craving,1.0,0.9756,1.0,0.9877,40,False
+LAIGAI,gemma-vl-3-27b,disgust,0.9429,0.8049,0.9429,0.8684,35,False
+LAIGAI,gemma-vl-3-27b,excitement,0.65,0.6842,0.65,0.6667,20,False
+LAIGAI,gemma-vl-3-27b,fear,0.9524,0.8163,0.9524,0.8791,42,False
+LAIGAI,gemma-vl-3-27b,joy,0.66,0.8462,0.66,0.7416,150,False
+LAIGAI,gemma-vl-3-27b,neutral,0.5476,0.7931,0.5476,0.6479,42,False
+LAIGAI,gemma-vl-3-27b,nurturant love,0.7143,0.4167,0.7143,0.5263,14,False
+LAIGAI,gemma-vl-3-27b,sadness,0.9,0.7397,0.9,0.812,60,False
+LAIGAI,intern-vl-3.5-8b,amusement,0.44,0.8462,0.44,0.5789,25,False
+LAIGAI,intern-vl-3.5-8b,anger,0.2143,0.5,0.2143,0.3,14,False
+LAIGAI,intern-vl-3.5-8b,attachment love,0.375,0.2143,0.375,0.2727,8,False
+LAIGAI,intern-vl-3.5-8b,awe,0.8667,0.6341,0.8667,0.7324,30,False
+LAIGAI,intern-vl-3.5-8b,craving,0.15,1.0,0.15,0.2609,40,False
+LAIGAI,intern-vl-3.5-8b,disgust,0.7143,0.8065,0.7143,0.7576,35,False
+LAIGAI,intern-vl-3.5-8b,excitement,0.7,0.5385,0.7,0.6087,20,False
+LAIGAI,intern-vl-3.5-8b,fear,0.6667,0.8485,0.6667,0.7467,42,False
+LAIGAI,intern-vl-3.5-8b,joy,0.9067,0.6154,0.9067,0.7332,150,False
+LAIGAI,intern-vl-3.5-8b,neutral,0.2619,0.7857,0.2619,0.3929,42,False
+LAIGAI,intern-vl-3.5-8b,nurturant love,0.0,0.0,0.0,0.0,14,False
+LAIGAI,intern-vl-3.5-8b,sadness,0.9833,0.7867,0.9833,0.8741,60,False
+LAIGAI,qwen-vl-2.5-7b,amusement,0.84,0.5385,0.84,0.6562,25,False
+LAIGAI,qwen-vl-2.5-7b,anger,0.5,0.3333,0.5,0.4,14,False
+LAIGAI,qwen-vl-2.5-7b,attachment love,1.0,0.1026,1.0,0.186,8,False
+LAIGAI,qwen-vl-2.5-7b,awe,0.7333,0.7586,0.7333,0.7458,30,False
+LAIGAI,qwen-vl-2.5-7b,craving,0.75,0.9677,0.75,0.8451,40,False
+LAIGAI,qwen-vl-2.5-7b,disgust,0.8857,0.62,0.8857,0.7294,35,False
+LAIGAI,qwen-vl-2.5-7b,excitement,0.85,0.4857,0.85,0.6182,20,False
+LAIGAI,qwen-vl-2.5-7b,fear,0.4762,0.9091,0.4762,0.625,42,False
+LAIGAI,qwen-vl-2.5-7b,joy,0.44,0.6804,0.44,0.5344,150,False
+LAIGAI,qwen-vl-2.5-7b,neutral,0.2381,0.8333,0.2381,0.3704,42,False
+LAIGAI,qwen-vl-2.5-7b,nurturant love,0.0,0.0,0.0,0.0,14,False
+LAIGAI,qwen-vl-2.5-7b,sadness,0.8333,0.7576,0.8333,0.7937,60,False
+LAIGAI,llava-vl-vicuna-7b,amusement,0.12,0.5,0.12,0.1935,25,False
+LAIGAI,llava-vl-vicuna-7b,anger,0.0714,0.25,0.0714,0.1111,14,False
+LAIGAI,llava-vl-vicuna-7b,attachment love,0.0,0.0,0.0,0.0,8,False
+LAIGAI,llava-vl-vicuna-7b,awe,0.9667,0.1028,0.9667,0.1859,30,False
+LAIGAI,llava-vl-vicuna-7b,craving,0.15,1.0,0.15,0.2609,40,False
+LAIGAI,llava-vl-vicuna-7b,disgust,0.4571,1.0,0.4571,0.6275,35,False
+LAIGAI,llava-vl-vicuna-7b,excitement,0.0,0.0,0.0,0.0,20,False
+LAIGAI,llava-vl-vicuna-7b,fear,0.0238,0.3333,0.0238,0.0444,42,False
+LAIGAI,llava-vl-vicuna-7b,joy,0.3933,0.8194,0.3933,0.5315,150,False
+LAIGAI,llava-vl-vicuna-7b,neutral,0.0,0.0,0.0,0.0,42,False
+LAIGAI,llava-vl-vicuna-7b,nurturant love,0.0,0.0,0.0,0.0,14,False
+LAIGAI,llava-vl-vicuna-7b,sadness,0.9167,0.618,0.9167,0.7383,60,False

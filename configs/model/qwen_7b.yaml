@@ -1,0 +1,18 @@
+# @package model    
+name: "qwen-vl-2.5-7b"
+model_path: "Qwen/Qwen2.5-VL-7B-Instruct"
+
+# All arguments passed directly to the vLLM LLM() constructor
+vllm_args:
+  dtype: "bfloat16"
+  max_model_len: 4096
+  max_num_seqs: 5
+  gpu_memory_utilization: 0.95
+  limit_mm_per_prompt:
+    image: 1
+  mm_processor_kwargs:
+    min_pixels: 784
+    max_pixels: 9633792
+    fps: 1
+
+  

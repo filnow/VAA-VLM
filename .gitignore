@@ -176,3 +176,8 @@ cython_debug/
 wandb/
 
 outputs/
+
+data/human_cls/IAPS*
+data/human_cls/NAPS*
+data/human_reg/IAPS*
+data/human_reg/NAPS*

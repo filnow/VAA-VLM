@@ -1,0 +1,49 @@
+dataset,model,emotion,mae,n_pairs,result_file
+IAPS,gemini-2.5-flash,anger,1.16,634,IAPS-reg-gemini-2.5-flash.csv
+IAPS,gemini-2.5-flash,arousal,1.95,633,IAPS-reg-gemini-2.5-flash.csv
+IAPS,gemini-2.5-flash,disgust,0.94,634,IAPS-reg-gemini-2.5-flash.csv
+IAPS,gemini-2.5-flash,emotional valence,1.17,633,IAPS-reg-gemini-2.5-flash.csv
+IAPS,gemini-2.5-flash,fear,1.42,634,IAPS-reg-gemini-2.5-flash.csv
+IAPS,gemini-2.5-flash,happiness,1.31,634,IAPS-reg-gemini-2.5-flash.csv
+IAPS,gemini-2.5-flash,sadness,1.21,634,IAPS-reg-gemini-2.5-flash.csv
+IAPS,gemini-2.5-flash,surprise,1.54,634,IAPS-reg-gemini-2.5-flash.csv
+IAPS,gemma-vl-3-27b,anger,1.29,692,IAPS-reg-gemma-vl-3-27b.csv
+IAPS,gemma-vl-3-27b,arousal,2.2,691,IAPS-reg-gemma-vl-3-27b.csv
+IAPS,gemma-vl-3-27b,disgust,1.35,692,IAPS-reg-gemma-vl-3-27b.csv
+IAPS,gemma-vl-3-27b,emotional valence,0.79,691,IAPS-reg-gemma-vl-3-27b.csv
+IAPS,gemma-vl-3-27b,fear,1.86,692,IAPS-reg-gemma-vl-3-27b.csv
+IAPS,gemma-vl-3-27b,happiness,0.9,692,IAPS-reg-gemma-vl-3-27b.csv
+IAPS,gemma-vl-3-27b,sadness,1.51,692,IAPS-reg-gemma-vl-3-27b.csv
+IAPS,gemma-vl-3-27b,surprise,1.37,692,IAPS-reg-gemma-vl-3-27b.csv
+IAPS,gpt-4.1,anger,0.81,658,IAPS-reg-gpt-4.1.csv
+IAPS,gpt-4.1,arousal,2.09,657,IAPS-reg-gpt-4.1.csv
+IAPS,gpt-4.1,disgust,0.99,658,IAPS-reg-gpt-4.1.csv
+IAPS,gpt-4.1,emotional valence,1.34,657,IAPS-reg-gpt-4.1.csv
+IAPS,gpt-4.1,fear,1.46,658,IAPS-reg-gpt-4.1.csv
+IAPS,gpt-4.1,happiness,1.14,658,IAPS-reg-gpt-4.1.csv
+IAPS,gpt-4.1,sadness,1.03,658,IAPS-reg-gpt-4.1.csv
+IAPS,gpt-4.1,surprise,1.62,658,IAPS-reg-gpt-4.1.csv
+IAPS,intern-vl-3.5-8b,anger,0.99,692,IAPS-reg-intern-vl-3.5-8b.csv
+IAPS,intern-vl-3.5-8b,arousal,1.83,691,IAPS-reg-intern-vl-3.5-8b.csv
+IAPS,intern-vl-3.5-8b,disgust,1.23,692,IAPS-reg-intern-vl-3.5-8b.csv
+IAPS,intern-vl-3.5-8b,emotional valence,1.07,691,IAPS-reg-intern-vl-3.5-8b.csv
+IAPS,intern-vl-3.5-8b,fear,1.56,692,IAPS-reg-intern-vl-3.5-8b.csv
+IAPS,intern-vl-3.5-8b,happiness,1.49,692,IAPS-reg-intern-vl-3.5-8b.csv
+IAPS,intern-vl-3.5-8b,sadness,1.17,692,IAPS-reg-intern-vl-3.5-8b.csv
+IAPS,intern-vl-3.5-8b,surprise,1.47,692,IAPS-reg-intern-vl-3.5-8b.csv
+IAPS,qwen-vl-2.5-72b,anger,1.04,692,IAPS-reg-qwen-vl-2.5-72b.csv
+IAPS,qwen-vl-2.5-72b,arousal,2.08,691,IAPS-reg-qwen-vl-2.5-72b.csv
+IAPS,qwen-vl-2.5-72b,disgust,1.05,692,IAPS-reg-qwen-vl-2.5-72b.csv
+IAPS,qwen-vl-2.5-72b,emotional valence,1.17,691,IAPS-reg-qwen-vl-2.5-72b.csv
+IAPS,qwen-vl-2.5-72b,fear,1.36,692,IAPS-reg-qwen-vl-2.5-72b.csv
+IAPS,qwen-vl-2.5-72b,happiness,1.15,692,IAPS-reg-qwen-vl-2.5-72b.csv
+IAPS,qwen-vl-2.5-72b,sadness,1.12,692,IAPS-reg-qwen-vl-2.5-72b.csv
+IAPS,qwen-vl-2.5-72b,surprise,1.47,692,IAPS-reg-qwen-vl-2.5-72b.csv
+IAPS,qwen-vl-2.5-7b,anger,1.03,692,IAPS-reg-qwen-vl-2.5-7b.csv
+IAPS,qwen-vl-2.5-7b,arousal,2.46,691,IAPS-reg-qwen-vl-2.5-7b.csv
+IAPS,qwen-vl-2.5-7b,disgust,1.0,692,IAPS-reg-qwen-vl-2.5-7b.csv
+IAPS,qwen-vl-2.5-7b,emotional valence,1.17,691,IAPS-reg-qwen-vl-2.5-7b.csv
+IAPS,qwen-vl-2.5-7b,fear,1.16,692,IAPS-reg-qwen-vl-2.5-7b.csv
+IAPS,qwen-vl-2.5-7b,happiness,1.25,692,IAPS-reg-qwen-vl-2.5-7b.csv
+IAPS,qwen-vl-2.5-7b,sadness,1.04,692,IAPS-reg-qwen-vl-2.5-7b.csv
+IAPS,qwen-vl-2.5-7b,surprise,1.59,692,IAPS-reg-qwen-vl-2.5-7b.csv

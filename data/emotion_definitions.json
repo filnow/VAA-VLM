@@ -1,0 +1,46 @@
+{
+    "LAIGAI": {
+      "amusement": "An emotional experience associated with opportunities for humor and events that violate expectations.",
+      "anger": "An emotional experience characterized by antagonism toward someone or something perceived as deliberately harmful or unfair.",
+      "attachment love": "An emotional experience tied to opportunities for affiliation, interdependence, and intimacy.",
+      "awe": "An emotional experience triggered by stimuli that are vast and beyond the ordinary frame of reference, often involving wonder, admiration, and a sense of being small in the presence of something greater than oneself.",
+      "craving": "An emotional experience associated with specific sensory pleasure that aids in distinguishing nutritional foods from nutritionally neutral objects and toxins.",
+      "disgust": "An emotional experience involving strong aversion or repulsion toward something perceived as offensive, contaminating, or unpleasant.",
+      "excitement": "A high-intensity emotional experience in response to novelty, challenge, or human excellence, often associated with some degree of risk.",
+      "fear": "An emotional experience triggered by a perceived threat or danger.",
+      "joy": "An emotional state brought about by good fortune and well-being.",
+      "neutral": "An emotional state marked by the absence of strong emotions, either positive or negative, characterized by calmness and balance without significant arousal.",
+      "nurturant love": "An emotional experience linked to the adaptive opportunities provided by offspring or other vulnerable kin.",
+      "sadness": "An emotional experience characterized by feelings of disappointment, grief, or hopelessness."
+    },
+    "GENLAIGAI": {
+      "amusement": "An emotional experience associated with opportunities for humor and events that violate expectations.",
+      "anger": "An emotional experience characterized by antagonism toward someone or something perceived as deliberately harmful or unfair.",
+      "attachment love": "An emotional experience tied to opportunities for affiliation, interdependence, and intimacy.",
+      "awe": "An emotional experience triggered by stimuli that are vast and beyond the ordinary frame of reference, often involving wonder, admiration, and a sense of being small in the presence of something greater than oneself.",
+      "craving": "An emotional experience associated with specific sensory pleasure that aids in distinguishing nutritional foods from nutritionally neutral objects and toxins.",
+      "disgust": "An emotional experience involving strong aversion or repulsion toward something perceived as offensive, contaminating, or unpleasant.",
+      "excitement": "A high-intensity emotional experience in response to novelty, challenge, or human excellence, often associated with some degree of risk.",
+      "fear": "An emotional experience triggered by a perceived threat or danger.",
+      "joy": "An emotional state brought about by good fortune and well-being.",
+      "neutral": "An emotional state marked by the absence of strong emotions, either positive or negative, characterized by calmness and balance without significant arousal.",
+      "nurturant love": "An emotional experience linked to the adaptive opportunities provided by offspring or other vulnerable kin.",
+      "sadness": "An emotional experience characterized by feelings of disappointment, grief, or hopelessness."
+    },
+    "IAPS": {
+      "happiness": "A positive state characterized by feelings of joy, contentment, and wellbeing. It often arises in response to pleasant experiences and is typically accompanied by a sense of lightness, warmth, and optimism.",
+      "surprise": "The response to a sudden, unexpected event.",
+      "sadness": "Feelings of disappointment, grief, or hopelessness.",
+      "anger": "Antagonism toward someone or something perceived as deliberately harmful or unfair.",
+      "disgust": "Strong aversion or repulsion toward something perceived as offensive, contaminating, or unpleasant.",
+      "fear": "Triggered by a perceived threat or danger."
+    },
+    "NAPS": {
+      "happiness": "A positive state characterized by feelings of joy, contentment, and wellbeing. It often arises in response to pleasant experiences and is typically accompanied by a sense of lightness, warmth, and optimism.",
+      "surprise": "The response to a sudden, unexpected event.",
+      "sadness": "Feelings of disappointment, grief, or hopelessness.",
+      "anger": "Antagonism toward someone or something perceived as deliberately harmful or unfair.",
+      "disgust": "Strong aversion or repulsion toward something perceived as offensive, contaminating, or unpleasant.",
+      "fear": "Triggered by a perceived threat or danger."
+    }
+  }

@@ -1,0 +1,12 @@
+# @package model    
+name: "llava-vl-vicuna-7b"
+model_path: "llava-hf/llava-v1.6-vicuna-7B-hf"
+
+# All arguments passed directly to the vLLM LLM() constructor
+vllm_args:
+  dtype: "bfloat16"
+  max_model_len: 4096
+  gpu_memory_utilization: 0.95
+  limit_mm_per_prompt:
+    image: 1
+

@@ -1,0 +1,14 @@
+name: "gemma-vl-3-27b"
+model_path: "google/gemma-3-27b-it"
+
+# All arguments passed directly to the vLLM LLM() constructor
+vllm_args:
+  dtype: "bfloat16"
+  max_model_len: 2048
+  max_num_seqs: 2
+  gpu_memory_utilization: 0.95
+  limit_mm_per_prompt:
+    image: 1
+  mm_processor_kwargs:
+    do_pan_and_scan: True
+  tensor_parallel_size: 1

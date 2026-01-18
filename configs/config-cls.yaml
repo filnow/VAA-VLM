@@ -1,0 +1,39 @@
+    
+# Hydra Defaults:
+defaults:
+  - model: qwen_7b
+  - dataset: naps
+
+# --- Path Configurations ---
+# Path to the JSON file containing prompt templates.
+# The '../' is important because Hydra's default working directory is the output folder.
+prompt_config_path: "prompts/prompt-default.json"
+emotion_definitions_path: "data/emotion_definitions.json"
+image_path: "/projects/laigai/idub154/test.jpg"
+
+seed: 42  # Random seed for reproducibility
+
+# --- Output CSV Configuration ---
+# Defines where to save the results CSV and how to name it.
+output:
+  # A template for the output filename.
+  # It dynamically uses variables from other parts of the config!
+  # e.g., this will generate "NAPS-cls-qwen-vl-2.5-7b.csv"
+  filename: "results/${dataset.name}-cls-${model.name}.csv"
+
+# --- Model Sampling Parameters ---
+# These are passed directly to vLLM's SamplingParams()
+sampling_params:
+  max_tokens: 10
+  temperature: 0.0
+  seed: 42
+
+# --- Weights & Biases Logging ---
+wandb:
+  project: "${dataset.name}-cls"
+  job_type: "model-evaluation"
+  run_name: "${dataset.name}-cls-${model.name}"
+
+hydra:
+  run:
+    dir: outputs/${now:%Y-%m-%d}/${now:%H-%M-%S}

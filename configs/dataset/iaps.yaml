@@ -1,0 +1,5 @@
+# @package dataset
+name: "IAPS"
+hf_path: "filnow/IAPS-Emotion-Prediction"
+ground_truth_csv_path: "data/human_cls/IAPS-human-cls.csv"
+scale: 9
