@@ -12,6 +12,10 @@
 
 **Official repository for the paper: *Visual Affect Analysis: Predicting Emotions of Image Viewers with Vision–Language Models***
 
+[![arXiv](https://img.shields.io/badge/arXiv-2602.00123-b31b1b.svg)](https://arxiv.org/abs/2602.00123)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+
 </div>
 
 ---
@@ -215,7 +219,25 @@ VAA-VLM/
 
 ---
 
-## 👥 Authors & Acknowledgments
+## � Citation
+
+If you find this work useful:
+
+```bibtex
+@misc{nowicki2026visualaffectanalysispredicting,
+      title={Visual Affect Analysis: Predicting Emotions of Image Viewers with Vision-Language Models}, 
+      author={Filip Nowicki and Hubert Marciniak and Jakub Łączkowski and Krzysztof Jassem and Tomasz Górecki and Vimala Balakrishnan and Desmond C. Ong and Maciej Behnke},
+      year={2026},
+      eprint={2602.00123},
+      archivePrefix={arXiv},
+      primaryClass={cs.HC},
+      url={https://arxiv.org/abs/2602.00123}, 
+}
+```
+
+---
+
+## �👥 Authors & Acknowledgments
 
 **Authors:**  
 Filip Nowicki¹, Hubert Marciniak¹, Jakub Łączkowski¹, Krzysztof Jassem¹, Tomasz Górecki¹, Vimala Balakrishnan²˒³, Desmond C. Ong⁴, Maciej Behnke⁵
