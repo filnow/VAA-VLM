@@ -219,7 +219,7 @@ VAA-VLM/
 
 ---
 
-## � Citation
+## Citation
 
 If you find this work useful:
 
@@ -237,7 +237,7 @@ If you find this work useful:
 
 ---
 
-## �👥 Authors & Acknowledgments
+## Authors & Acknowledgments
 
 **Authors:**  
 Filip Nowicki¹, Hubert Marciniak¹, Jakub Łączkowski¹, Krzysztof Jassem¹, Tomasz Górecki¹, Vimala Balakrishnan²˒³, Desmond C. Ong⁴, Maciej Behnke⁵
